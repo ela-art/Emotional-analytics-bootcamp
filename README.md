@@ -3,8 +3,12 @@
 
 ## Overview
 
-Proyecto de análisis exploratorio aplicado a texto no estructurado generado durante un bootcamp intensivo.  
-Se transforman entradas de diario en métricas cuantificables para evaluar si la carga formativa presenta relación observable con indicadores emocionales.
+Este proyecto nace de la curiosidad por comprobar si un diario no estructurado puede transformarse en un dataset analizable. A través de técnicas de limpieza, 
+extracción de keywords y feature engineering,
+el texto se convierte en métricas cuantificables que permiten evaluar patrones emocionales y carga formativa.
+
+El enfoque es metodológico: demostrar cómo narrativa cualitativa puede convertirse en indicadores medibles aplicables en negocio, especialmente en análisis de feedback, 
+experiencia de usuario y programas formativos.
 
 ## Objetivo
 
